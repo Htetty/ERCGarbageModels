@@ -1,6 +1,5 @@
 garbage-dataset/
 runs/
-*.pt
 
 # Python cache
 __pycache__/
